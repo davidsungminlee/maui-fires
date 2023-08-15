@@ -123,7 +123,7 @@
         "ms_analytic": {
             "type": "image/tiff; application=geotiff; profile=cloud-optimized",
             "title": "Multispectral Image",
-            "href": "./10300100EB15FF00-ms.tif",
+            "href": "https://maxar-opendata.s3.amazonaws.com/events/Maui-Hawaii-fires-Aug-23/ard/04/122000312223/2023-08-12/10300100EB15FF00-ms.tif",
             "proj:bbox": [
                 744843.75,
                 2319843.75,
@@ -199,7 +199,7 @@
         "pan_analytic": {
             "type": "image/tiff; application=geotiff; profile=cloud-optimized",
             "title": "Panchromatic Image",
-            "href": "./10300100EB15FF00-pan.tif",
+            "href": "https://maxar-opendata.s3.amazonaws.com/events/Maui-Hawaii-fires-Aug-23/ard/04/122000312223/2023-08-12/10300100EB15FF00-pan.tif",
             "proj:bbox": [
                 744843.75,
                 2319843.75,
